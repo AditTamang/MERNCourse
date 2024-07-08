@@ -35,3 +35,20 @@ a{
 span{
     font-weight: bold;
 }
+
+nav{
+    display: flex;
+    /* justify-content: space-between; */
+    
+
+}
+
+img{
+    margin-left: 0px ;
+    max-height: 120px;
+    /* border: 10px 20px; */
+}
+
+div{
+    
+}
