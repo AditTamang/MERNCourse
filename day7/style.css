@@ -41,6 +41,6 @@
     /*Justify-content le horizontal ma garxa*/
 
     justify-content: space-around;
-    /*Align Ir=tems le chai horizontals ko kam garxa*/
+    /*Align Items le chai vertical ko kam garxa*/
     align-items:last baseline;
 }
